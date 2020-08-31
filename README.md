@@ -15,4 +15,4 @@ nerdfonts.override {
 }
 ```
 
-Where font-names are available in [shas.nix](https://github.com/NixOS/nixpkgs/blob/master/pkgs/data/fonts/nerdfonts/shas.nix#L2-L51).
+Where font-names are available in [shas.nix](https://github.com/NixOS/nixpkgs/blob/6ba3207643fd27ffa25a172911e3d6825814d155/pkgs/data/fonts/nerdfonts/shas.nix#L2-L51).
